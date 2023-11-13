@@ -1,0 +1,2 @@
+1. study the background of PD detection and identification
+2. get the PRPD patterns and explore the features for describing different types of PRPDs
