@@ -1,0 +1,4 @@
+1e-4 test acc: 0.9938
+1e-4_weight test acc: 0.9997
+5e-4 test acc: 0.9935
+5e-4 weight test acc: 0.9998
